@@ -5,6 +5,8 @@ Meant to be compiled and tested with Remix (https://remix.ethereum.org)
 # Usage
 Install `remixd`
 
+**NOTE:** if you receive a permissions error, it is highly reccomended **not** to use `sudo`, follow instructions here: https://docs.npmjs.com/getting-started/fixing-npm-permissions
+
 ```
 npm install -g remixd
 ```
